@@ -1,8 +1,8 @@
 # Drawing a Sprite on the Nintendo Gameboy
 
-This source is to accompany [this blog post](https://huntergreynolds.github.io/posts/gameboy_drawing_a_sprite/).
+This source is to accompany [this blog post](https://huntergreynolds.github.io/posts/gb-sprite/).
 
-You should check out [this blog post](https://huntergreynolds.github.io/posts/gameboy_hello_world/) for the first part of this project.
+You should check out [this blog post](https://huntergreynolds.github.io/posts/gb-hello/) for the first part of this project.
 
 ## Requirements
 
